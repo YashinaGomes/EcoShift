@@ -3,8 +3,10 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    // Singleton - apenas uma instância do GameManager
     public static GameManager Instance { get; private set; }
 
+    // Estados do jogo
     public enum GameState
     {
         MainMenu,
