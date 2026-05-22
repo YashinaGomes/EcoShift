@@ -383,6 +383,6 @@ Eco Shift combina sobrevivência, conscientização ambiental e progressão visu
 
 ### *“Restaure o Ambiente. Reconstrua o Futuro.”*
 
-[![Abrir GDD](https://img.shields.io/badge/PDF-GDD%20EcoShift-red?style=for-the-badge&logo=adobeacrobatreader)](./Apresentação%20GDD%20Ecoshift%20Bootcamp%20(1).pdf)
+[![Abrir GDD](https://img.shields.io/badge/PDF-GDD%20EcoShift-red?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1c4S-I-Pt0OarwNem6pOuQYrZqukACc55/view?usp=sharing)
 
 </div>
